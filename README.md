@@ -1,1 +1,1 @@
-# kicad.esp01-ssr-hat
+# esp01-ssr-hat
