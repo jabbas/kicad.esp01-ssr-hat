@@ -172,7 +172,7 @@ U 1 1 5D7800CD
 P 10200 3200
 F 0 "J2" H 10280 3192 50  0000 L CNN
 F 1 "Screw_Terminal_01x02" H 10280 3101 50  0000 L CNN
-F 2 "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" H 10200 3200 50  0001 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 10200 3200 50  0001 C CNN
 F 3 "~" H 10200 3200 50  0001 C CNN
 	1    10200 3200
 	1    0    0    -1  
@@ -183,7 +183,7 @@ U 1 1 5D780999
 P 10150 4150
 F 0 "J1" H 10230 4142 50  0000 L CNN
 F 1 "Screw_Terminal_01x02" H 10230 4051 50  0000 L CNN
-F 2 "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" H 10150 4150 50  0001 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 10150 4150 50  0001 C CNN
 F 3 "~" H 10150 4150 50  0001 C CNN
 	1    10150 4150
 	1    0    0    -1  
@@ -240,7 +240,7 @@ U 1 1 5D79BB9B
 P 4900 2050
 F 0 "J3" H 4980 2042 50  0000 L CNN
 F 1 "Screw_Terminal_01x02" H 4980 1951 50  0000 L CNN
-F 2 "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal" H 4900 2050 50  0001 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 4900 2050 50  0001 C CNN
 F 3 "~" H 4900 2050 50  0001 C CNN
 	1    4900 2050
 	1    0    0    -1  
