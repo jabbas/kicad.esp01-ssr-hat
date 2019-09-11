@@ -288,9 +288,9 @@
     (pad 3 thru_hole circle (at -7.62 1.4) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask)
       (net 5 +5V))
     (pad 2 thru_hole circle (at 2.54 1.4) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask)
-      (net 3 "Net-(J2-Pad1)"))
-    (pad 1 thru_hole rect (at 10.16 1.4) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask)
       (net 4 "Net-(J2-Pad2)"))
+    (pad 1 thru_hole rect (at 10.16 1.4) (size 1.508 1.508) (drill 1) (layers *.Cu *.Mask)
+      (net 3 "Net-(J2-Pad1)"))
   )
 
   (module Package_TO_SOT_THT:TO-92_Inline (layer F.Cu) (tedit 5A1DD157) (tstamp 5D7858ED)
